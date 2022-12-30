@@ -1,5 +1,5 @@
 d = {"Is 1 prime?":{"T":0, "F":1}, "Is every square matrix singular?":{"T":1, "F":0}, "Is 120 factorial of 5?":{"T":1, "F":0},
-"Does octopus has three hearts?":{"T":1, "F":0}, "Is python a case sensitive language?":{"T":1, "F":0}}
+"Does octopus have three hearts?":{"T":1, "F":0}, "Is python a case sensitive language?":{"T":1, "F":0}}
 print("Welcome t0 Group 9's Quiz!\nAnswer every question by typing 'T' for true and 'F' for false.")
 score = 0
 i = 0
